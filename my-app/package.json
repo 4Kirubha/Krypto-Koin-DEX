@@ -7,9 +7,7 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "export": "next build && next export",
-    "test": "react-scripts test", 
-    "eject": "react-scripts eject"
+    "export": "next build && next export"
   },
   "dependencies": {
     "ethers": "^5.7.2",
